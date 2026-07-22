@@ -1,0 +1,7 @@
+{
+  "name": "troefcall-online",
+  "version": "1.0.0",
+  "description": "Surinaamse troefcall — online met vrienden",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
